@@ -248,6 +248,7 @@ nav .navbar .links li:hover .Fashion-sub-menu{
 .image-two{
   width: 23%;
   height: auto;
+  border-radius: 10px;
 }
 .image-three{
   width: 23%;
@@ -279,7 +280,7 @@ nav .navbar .links li:hover .Fashion-sub-menu{
 }
 .bottom-half-p{
   margin-left: -140px;
-  margin-bottom: 60px;
+  margin-bottom: 80px;
   width: 950px;
   font-family: "Poppins","Sans-serif";
   font-weight: normal;
