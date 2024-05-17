@@ -8,7 +8,6 @@
 }
 body{
   min-height: 100vh;
-  overflow-x: hidden;
 }
 nav{
   position: fixed;
@@ -278,6 +277,7 @@ nav .navbar .links li:hover .Fashion-sub-menu{
   width: 30%;
   height: 500px; 
   padding: 5px;
+  border-radius: 10px;
   
 }
 
@@ -285,6 +285,7 @@ nav .navbar .links li:hover .Fashion-sub-menu{
   width: 30%;
   height: 500px;
   padding: 5px;
+  border-radius: 10px;
 }
 
 .bottom-box {
@@ -419,6 +420,7 @@ nav .navbar .links li:hover .Fashion-sub-menu{
   width: 325px;
   height: 400px;
   object-fit: cover;
+  border-radius: 10px;
 }
 
 .container .slider-scrollbar {
@@ -722,6 +724,7 @@ footer{
     justify-content: space-around;
     margin-top: 10px;
     margin-left: -100px;
+    border-radius: 10px;
   }
   .image-title h2{
     font-size: 20px;
