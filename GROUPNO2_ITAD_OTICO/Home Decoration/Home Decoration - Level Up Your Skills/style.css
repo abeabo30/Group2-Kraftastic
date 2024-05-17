@@ -235,6 +235,7 @@ nav .navbar .links li:hover .Fashion-sub-menu{
 .image-one{
   width: 100%;
   height: 570px;
+  border-radius: 10px;
 }
 .bottom-half{
   padding: 80px 0px 0px 0px;
@@ -248,20 +249,24 @@ nav .navbar .links li:hover .Fashion-sub-menu{
 .image-two{
   width: 23%;
   height: auto;
+  border-radius: 10px;
 }
 .image-three{
   width: 23%;
   height: auto;
+  border-radius: 10px;
 }
 .image-four{
   width: 23%;
   height: auto;
+  border-radius: 10px;
 }
 .image-two,
 .image-three,
 .image-four {
   margin-right: 20px;
   padding-bottom: 50px;
+  border-radius: 10px;
 }
 .image-four {
   margin-right: 0;
@@ -368,6 +373,7 @@ nav .navbar .links li:hover .Fashion-sub-menu{
   margin: 60px -140px;
   width: 400px;
   height: 300px;
+  border-radius: 10px;
 }
 .bottom-half-h2-left{
   float: right;
@@ -394,6 +400,7 @@ nav .navbar .links li:hover .Fashion-sub-menu{
   width: 400px;
   height: 300px;
   max-width: 1000px;
+  border-radius: 10px;
 }
 .bottom-half-h2-right{
   float: left;
@@ -576,6 +583,7 @@ footer{
   .image-two{
     width: 23%;
     height: auto;
+    border-radius: 10px;
   }
   .image-three{
     width: 23%;

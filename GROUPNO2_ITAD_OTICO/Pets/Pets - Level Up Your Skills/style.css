@@ -256,15 +256,18 @@ nav .navbar .links li:hover .Fashion-sub-menu{
 .image-four{
   width: 23%;
   height: auto;
+  border-radius: 10px;
 }
 .image-two,
 .image-three,
 .image-four {
   margin-right: 20px;
   padding-bottom: 50px;
+  border-radius: 10px;
 }
 .image-four {
-  margin-right: 0;
+  margin-right: 0; 
+  border-radius: 10px;
 }
 .bottom-half-contents{
   width: 50%; 
@@ -279,7 +282,7 @@ nav .navbar .links li:hover .Fashion-sub-menu{
 }
 .bottom-half-p{
   margin-left: -140px;
-  margin-bottom: 60px;
+  margin-bottom: 80px;
   width: 950px;
   font-family: "Poppins","Sans-serif";
   font-weight: normal;
@@ -368,6 +371,7 @@ nav .navbar .links li:hover .Fashion-sub-menu{
   margin: 60px -140px;
   width: 400px;
   height: 300px;
+  border-radius: 10px;
 }
 .bottom-half-h2-left{
   float: right;
@@ -394,6 +398,7 @@ nav .navbar .links li:hover .Fashion-sub-menu{
   width: 400px;
   height: 300px;
   max-width: 1000px;
+  border-radius: 10px;
 }
 .bottom-half-h2-right{
   float: left;
